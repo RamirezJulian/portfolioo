@@ -77,17 +77,17 @@ p {
 /* 60% primary color */
 .primary {
   flex: 6;
-  background-color: #3498db; /* Change to your primary color */
+  background-color: #4C007D; /* Change to your primary color */
 }
 
 /* 30% secondary color */
 .secondary {
   flex: 3;
-  background-color: #2ecc71; /* Change to your secondary color */
+  background-color: #146400; /* Change to your secondary color */
 }
 
 /* 10% accent color */
 .accent {
   flex: 1;
-  background-color: #e74c3c; /* Change to your accent color */
+  background-color: #4F0341; /* Change to your accent color */
 }
