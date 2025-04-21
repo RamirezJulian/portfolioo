@@ -22,7 +22,7 @@ main {
 
 h1,h2,h3,h4,h5,h6 {
   font-family: "P22 Arts And Crafts";
-  font-weight: 400;
+  font-weight: 500;
   font-style: normal;
 }
 
@@ -61,9 +61,9 @@ p {
 }
 
 .color-box {
-  height: 100px; /* Adjust height as needed */
-  border-radius: 8px; /* Optional rounded corners */
-  flex-grow: 1;
+  height: 150px; /* Adjust height as needed */
+  border-radius: 10px; /* Optional rounded corners */
+  flex-grow: 5;
 }
 
 /* 60% primary color */
