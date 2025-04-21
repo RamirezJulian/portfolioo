@@ -1,2 +1,2 @@
-# 2025-design-potfolio
-Personal Portfolio for Glenn Evans
+# Ramirez_Portfolio
+Personal Portfolio for Julian Ramirez
