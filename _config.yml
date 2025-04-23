@@ -7,3 +7,8 @@ collections:
 design:
 output: true
 permalink: /:collection/:path/
+
+collections:
+designs:
+output: true
+permalink: /designs/:name/
