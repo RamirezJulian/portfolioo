@@ -4,6 +4,6 @@ email: ramirezjulian519@gmail.com
 baseurl: "/portfolioo"
 
 collections:
-  design:
-    output: true
-    permalink: /:collection/:path/
+design:
+output: true
+permalink: /:collection/:path/

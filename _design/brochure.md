@@ -1,22 +1,22 @@
 ---
 title: "Brochure Design"
 tools: [Photoshop, InDesign]
-description: "An in-class project."
+description: "An Studio production in-class  project."
 layout: 
 permalink: 
 ---
 
 # Project Overview
 
-This poster series was created to explore how typography can communicate emotion and energy through layout. Each poster uses a limited color palette and plays with bold type, asymmetrical grids, and negative space.
+It was created from the brand known as DROP DEAD which is made by the band bring me the horizon. The inside of the brochure shows some clothes and accessories offered by DROP DEAD with their respective prices and information; also the back of the brochure becomes a poster of the band.
 
 
 ## Tools & Techniques
 
 - Adobe InDesign for layout
 - Adobe Photoshop for texture and blending modes
-- Color palette inspired by Bauhaus minimalism
+- Color palette inspired by Drop Dead and Bring me the horizon
 
 ### Outcomes
 
-This project helped develop a stronger sense of visual hierarchy and gave me the opportunity to experiment with type-as-image. The final posters were printed on 13x19" matte stock for our in-class critique.
+this project helped to create that sense of belonging with the clothing brand, achieving the expected results, which were printed out and handed in to the class for final grading.
